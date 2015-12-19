@@ -1,4 +1,4 @@
-**Final Project**
+# Final Project
 
 Part I.
 
@@ -6,12 +6,9 @@ The original algorithm approximated Pi by calculating the perimeter of a regular
 
 
 If you have any questions or concerns, please contanct:
-
-Basant Kandel
-
-basant.kandel@uconn.edu
+* Basant Kandel
+* basant.kandel@uconn.edu
 
 Project Collaborators:
-
-Paul Young and
-Christine Caron
+* Paul Young 
+* Christine Caron
